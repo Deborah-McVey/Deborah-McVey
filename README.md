@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deborah-McVey
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ...
+- 👀 I’m beginning a career in web development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Typescript, Bootstrap, and databases. I will soon be learning Ruby on Rails and backend development.
+- 💞️ I’m looking to collaborate on Angular applications.
+- 📫 How to reach me ... send me a message.
 
 <!---
 Deborah-McVey/Deborah-McVey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
