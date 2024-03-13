@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deborah-McVey
-- 👀 I’m beginning a career in web development.
-- 🌱 I recently completed Front End Developer Apprenticeship. I am currently learning Ruby on Rails and back end development.
-- 💞️ I’m looking to collaborate on Full Stack applications.
+- 👀 I’m beginning a career in full stack web development.
+- 🌱 I recently completed Front End Developer Apprenticeship. I am currently learning back end development. My most recent project is a full stack application with a REST API. 
+- 💞️ I’m looking to collaborate on Full Stack applications using Ruby on Rails and Angular.
 - 📫 How to reach me ... send me a message.
 
 <!---
