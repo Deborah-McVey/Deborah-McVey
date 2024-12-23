@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deborah-McVey
 - 👀 I’m in the beginning stages of my career in full stack web development.
-- 🌱 I recently completed a Full Stack Web Developer Apprenticeship. My most recent project is a full stack application with a REST API. 
+- 🌱 I recently completed a Full Stack Web Developer Apprenticeship. My most recent project is a full stack application with a REST API. I am now studying Unit Testing, Statistics, and Data Science in more depth.
 - 💞️ I’m looking to collaborate on Full Stack applications using Ruby on Rails.
 - 📫 How to reach me ... send me a message.
 
